@@ -1,2 +1,2 @@
-print("Hello world")
+prit("Hello world")
 print("Connection to Jenkins is successful.")
